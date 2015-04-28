@@ -1,5 +1,4 @@
-﻿using UnityEngine;
-using Pathfinding.Serialization.JsonFx;
+﻿using Pathfinding.Serialization.JsonFx;
 using System.Reflection;
 using ObjDict = System.Collections.Generic.Dictionary<string, object>;
 using TypeDict = System.Collections.Generic.Dictionary<System.Type, object>;
